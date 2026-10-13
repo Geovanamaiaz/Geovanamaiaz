@@ -1,4 +1,5 @@
-![Pixel art da Lain](26F58094-A18D-4CC1-9126-C0BA785...)
+
+![Pixel art da Lain](26F58094-A18D-4CC1-9126-C0BA785CD68A.png)
 
 #Olá, eu sou a Geovana! 👋🏻
 
