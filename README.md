@@ -1,4 +1,6 @@
-Olá, eu sou a Geovana! 👋🏻
+![Pixel art da Lain](lain.png)
+
+#Olá, eu sou a Geovana! 👋🏻
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas no IFAM.
 
